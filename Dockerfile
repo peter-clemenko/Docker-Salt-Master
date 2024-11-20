@@ -2,7 +2,7 @@
 # Salt Stack Salt Master Container
 #
 
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 MAINTAINER SOON_ <dorks@thisissoon.com>
 
 # Update System
